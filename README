@@ -1,0 +1,11 @@
+# Portfólio de Desenvolvedor JavaScript
+
+Este projeto foi desenvolvido usando tecnologias web padrão, incluindo HTML, CSS e JavaScript. Aqui estão os principais componentes do projeto:
+
+- **HTML e CSS**: A estrutura e o estilo do site foram criados usando HTML5 e CSS3. Foi utilizado o framework Normalize.css para garantir a compatibilidade entre navegadores.
+
+- **JavaScript**: O JavaScript foi usado para tornar o portfólio dinâmico. Os dados do perfil são carregados a partir de um arquivo JSON usando a função `fetch`. O JavaScript também é responsável por atualizar os elementos HTML com os dados do JSON.
+
+- **GitHub**: Os dados do portfólio são armazenados em um arquivo JSON hospedado em um repositório GitHub. Isso permite que os dados sejam facilmente atualizados e acessados de qualquer lugar.
+
+- **GitHub Pages**: O site do portfólio é hospedado no GitHub Pages, que é uma plataforma de hospedagem gratuita do GitHub. Isso torna o site acessível publicamente.
