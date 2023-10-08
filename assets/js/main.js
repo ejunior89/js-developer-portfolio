@@ -62,7 +62,6 @@ async function loadProfileData() {
         updateHardSkills(profileData);
         updateLanguages(profileData);
         updatePortfolio(profileData);
-        updateProfessionalExperience(profileData);
     } catch (error) {
         console.error("Erro ao carregar os dados do perfil:", error);
     }
