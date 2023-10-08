@@ -1,55 +1,55 @@
 {
-  "name": "Elio M Junior",
-  "photo": "https://avatars.githubusercontent.com/u/99017433?v=4",
-  "location": "Rondônia - RO",
-  "phone": "(69) 99974-4397",
-  "email": "eliomaiajunior@gmail.com",
-  "skills": {
-      "hardSkills": [
-          {
-              "name": "Javascript",
-              "logo": "https://raw.github.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
-          },
-          {
-              "name": "HTML",
-              "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
-          },
-          {
-              "name": "CSS",
-              "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
-          },
-          {
-              "name": "React",
-              "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-          }
-      ],
-      "softSkills": [
-          "Empatia",
-          "Liderança",
-          "Trabalho em equipe",
-          "Flexibilidade",
-          "Organização"
-      ]
-  },
-  "languages": [
-      "Português BR",
-      "Inglês (intermediário)"
-  ],
-  "portfolio": [
-      {
-          "name": "Criação de uma Pokedex",
-          "url": "https://github.com/ejunior89/JS-developer-Pokedex-DIO",
-          "github": true
-      },
-      {
-          "name": "Site para o Multiverso Spider-Man",
-          "url": "https://github.com/ejunior89/multiverso-spider-man",
-          "github": true
-      },
-      {
-          "name": "Clone HBO Max",
-          "url": "https://github.com/ejunior89/Trilha-CSS-HBO-max-Clone",
-          "github": true
-      }
-  ]
+    "name": "Elio M Junior",
+    "photo": "https://avatars.githubusercontent.com/u/99017433?v=4",
+    "location": "Rondônia - RO",
+    "phone": "(69) 99974-4397",
+    "email": "eliomaiajunior@gmail.com",
+    "skills": {
+        "hardSkills": [
+            {
+                "name": "Javascript",
+                "logo": "https://raw.github.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+            },
+            {
+                "name": "HTML",
+                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+            },
+            {
+                "name": "CSS",
+                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+            },
+            {
+                "name": "React",
+                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+            }
+        ],
+        "softSkills": [
+            "Empatia",
+            "Liderança",
+            "Trabalho em equipe",
+            "Flexibilidade",
+            "Organização"
+        ]
+    },
+    "languages": [
+        "Português BR",
+        "Inglês (intermediário)"
+    ],
+    "portfolio": [
+        {
+            "name": "Criação de uma Pokedex",
+            "url": "https://github.com/ejunior89/JS-developer-Pokedex-DIO",
+            "github": true
+        },
+        {
+            "name": "Site para o Multiverso Spider-Man",
+            "url": "https://github.com/ejunior89/multiverso-spider-man",
+            "github": true
+        },
+        {
+            "name": "Clone HBO Max",
+            "url": "https://github.com/ejunior89/Trilha-CSS-HBO-max-Clone",
+            "github": true
+        }
+    ]
 }
